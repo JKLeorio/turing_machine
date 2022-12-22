@@ -124,7 +124,6 @@ class Console:
             self.commands = self.from_csv(self.get_filename())
             self.get_tape()
             self.get_position()
-            print(self.commands)
             machine = Machine(self.commands, self.tape, self.position)
             machine.start()
 
