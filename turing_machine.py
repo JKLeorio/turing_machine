@@ -107,7 +107,7 @@ class Console:
         2)Из JSON
         3)Из CSV
         """)
-        choice = input(": ")
+        choice = input("Номер вашего выбора: ")
         if choice == "1":
             self.from_console()
 
