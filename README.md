@@ -18,8 +18,8 @@
 Пример заполнения .csv файла (слева задание, справа таблица которую вы заполняете):
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/72970300/209151891-3a066463-26b7-431e-8cf8-6a7e01c49cbc.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/72970300/209152595-feec5be8-7862-486d-a320-d4d2a610af52.png" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/72970300/209151891-3a066463-26b7-431e-8cf8-6a7e01c49cbc.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/72970300/209152595-feec5be8-7862-486d-a320-d4d2a610af52.png" width="400" /> 
 </p>
 
 ### Правила заполнения
