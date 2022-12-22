@@ -1,0 +1,4 @@
+A\Q	q1	q2	q3	q4
+0	q1,0,right	q3,0,right	q3,0,left	q1,0,left
+1	q3,0,left	q2,1,left	q4,0,right	q4,1,right
+*	stop	q3,*,left	stop	q4,*,right
